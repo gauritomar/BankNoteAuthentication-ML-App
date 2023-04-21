@@ -1,0 +1,39 @@
+"""Let's Authenticate the Banks Note
+    This is using docstrings for specifications.
+    ---
+    parameters:
+        -name: variance
+        in: query
+        type: number
+        required: true
+        -name: skewness
+        in: query
+        type: number
+        required: true
+        -name: curtosis
+        in: query
+        type: number
+        required: true
+        -name: query
+        in: query
+        type: number
+        required: true
+    responses:
+        200:
+            description: The output values
+    
+    """
+    """Let's Authenticate the Banks Note
+    This is using docstrings for specifications.
+    ---
+    parameters:
+        - name: file
+          in: formData
+          type: file
+          required: true
+        
+    responses:
+        200:
+            description: The output values
+    
+    """
