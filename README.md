@@ -15,8 +15,17 @@ streamlit run app.py
 ```
 Once the app is running, you will see a form with four input fields: variance, skewness, curtosis, and entropy. Enter the values for these fields and click the "Predict" button to see the result.
 
-## Demo
-To be added
+## Live Demo
+[Deployed Demo](https://gauritomar-banknoteauthentication-ml-app-app-x8guho.streamlit.app)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97106972/233763408-69c8c7bd-ca43-4556-8f75-36c07321cd5d.png" width="600" alt="image_description">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97106972/233763472-876c30ec-4157-42b9-b5cd-f45ec09f688a.png" width="600" alt="image_description">
+</p>
+
+
 
 ## Credits
 This app was created by Krish Naik as part of his online course on Deploy Machine Learning Models using Docker on youtube.
